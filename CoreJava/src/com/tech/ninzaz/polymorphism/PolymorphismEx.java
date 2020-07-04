@@ -8,8 +8,9 @@ public class PolymorphismEx {
 		s1.doTask();
 		System.out.println(s1.task);
 		
-		SoftwareEngineer s2 = new TestEngineer();
-		s2.doTask(); //this is runtime polymorphism
+		TestEngineer s2 = new TestEngineer();
+	//	SoftwareEngineer s2 = new TestEngineer(); //this is runtime polymorphism
+		s2.doTask(); 
 		System.out.println(s2.task);
 		
 	}
