@@ -2,7 +2,7 @@ package com.tech.ninzaz;
 
 public class CountOfObjects {
 
-	public static int count;
+	public static int count;	//count will be 0 by default. We can assign any specific value to it also
 	
 	public static void main(String[] args) {
 		
