@@ -19,17 +19,20 @@ public class IntegerEx {
 		Integer i3 = 120;
 		Integer i4 = 120;
 		
+//		int i5 = 500;
+//		System.out.println(i1==i5);
+		
 		System.out.println(i3==i4);
 		
 		
 		
-/*		Integer i5 = 5;
-		String s = i5.toString();
-		System.out.println("Integer to String: " + s);
+//		Integer i5 = 5;
+//		String s = i5.toString();
+//		System.out.println("Integer to String: " + s);
+//		
+//		
+//		System.out.println("String to Integer: "+Integer.parseInt(s));
 		
-		
-		System.out.println("String to Integer: "+Integer.parseInt(s));
-*/		
 	}
 
 }

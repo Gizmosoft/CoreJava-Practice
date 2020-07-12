@@ -5,7 +5,7 @@ public class ExceptionEx {
 	public static void main(String[] args) {
 		
 		try {
-			
+//			throw new Exception("Exception Raised !!!");
 			//Lets say i was doing something and there was a MyCustom Exception thrown
 			throw new MyCustomException("Exception Raised !!!");
 			
