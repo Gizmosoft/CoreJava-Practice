@@ -1,4 +1,4 @@
-package com.tech.ninzaz.model;
+package com.tech.ninzaz.JavaNewFeatures.model;
 
 public class Student {
 

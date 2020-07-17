@@ -1,10 +1,10 @@
-package com.tech.ninzaz.java8.streams;
+package com.tech.ninzaz.JavaNewFeatures.java8.streams;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
-import com.tech.ninzaz.model.Student;
+import com.tech.ninzaz.JavaNewFeatures.model.Student;
 
 public class ParallelStreamEx {
 

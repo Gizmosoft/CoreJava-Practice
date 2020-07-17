@@ -1,4 +1,4 @@
-package com.tech.ninzaz.java8;
+package com.tech.ninzaz.JavaNewFeatures.java8;
 
 @FunctionalInterface
 public interface FunctionalInterfaceEx {

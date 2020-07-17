@@ -1,4 +1,4 @@
-package com.tech.ninzaz.java7;
+package com.tech.ninzaz.JavaNewFeatures.java7;
 
 public class BinaryEx {
 

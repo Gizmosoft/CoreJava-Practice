@@ -1,4 +1,4 @@
-package com.tech.ninzaz.java8.lambda;
+package com.tech.ninzaz.JavaNewFeatures.java8.lambda;
 
 interface Addable{
 	public int add(int a, int b);
