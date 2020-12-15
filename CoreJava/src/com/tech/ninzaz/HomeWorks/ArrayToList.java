@@ -11,7 +11,8 @@ public class ArrayToList {
 		Arrays.asList(array);
 		
 		//Iterator i1 = array.length;
-		System.out.println(array);
+		for(Integer i:array)
+			System.out.println(i);
 	}
 
 }
