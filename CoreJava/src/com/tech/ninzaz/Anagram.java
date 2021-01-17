@@ -6,7 +6,6 @@ public class Anagram {
 
 	
 	public static void main(String[] vars){
-		
 		String s1= "Keep";
 		String s2 = "Peek";
 		
